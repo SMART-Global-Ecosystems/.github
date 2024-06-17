@@ -13,7 +13,7 @@
 
 🔗 Apart from that, we own other repositories that can be interesting for you:
 
-- 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
+- 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
 - 🌳 SIMANFOR is a tool developed for our group. It is a Decision Support System for the Simulation of Sustainable Forest Management Alternatives available at his [website](https://www.simanfor.es/), which support information is available at the [simanfor GitHub](https://github.com/simanfor)
 
@@ -30,6 +30,6 @@
 
 🔗 Además de lo anterior, también tenemos otros repositorios que pueden contener alguna informacion relevante para ti:
 
-- 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
+- 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) contiene todo el material en formato de código de nuestra microcredencial, y lo utilizamos para interactuar con nuestros estudiantes. Puedes encontrar más información sobre la microcredencial GEODATA [aquí](https://geodata.uva.es/)
 - 🌳 SIMANFOR es una herramienta desarrollada por nuestro grupo. Se trata de un Sistema de Apoyo para la Simulación de Alternativas de Gestión Forestal Sostenible, y está disponible en la siguiente [página web](https://www.simanfor.es/). La información de apoyo la podrás encontrar en el [GitHub de simanfor](https://github.com/simanfor)
